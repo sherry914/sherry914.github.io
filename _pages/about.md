@@ -18,7 +18,11 @@ Research Areas & Interests
 What's New
 ======
 [11/2024] An Invitation talk by The University of Virginia about ***Janus***.
+
 [11/2024] An Invitation talk by TrojAI Competition about LLM trojan mitigation via machine unlearning.
+
 [09/2024] An Invitation talk by Unify.ai about ***Janus***.
+
 [07/2024] ***Janus*** was accepted by CCS 2024.
+
 [12/2023] Our first paper about LLM privacy leakage, ***Janus***, was featured in the homepage of *The New York Times*.
