@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Postdoctoral Researcher at Indiana University Bloomington, under the supervision of Prof. XiaoFeng Wang(https://homes.luddy.indiana.edu/xw7/) and Prof. Haixu Tang(https://homes.luddy.indiana.edu/hatang/).
+I'm currently a Postdoctoral Researcher at Indiana University Bloomington, under the supervision of [Prof. XiaoFeng Wang](https://homes.luddy.indiana.edu/xw7/) and [Prof. Haixu Tang](https://homes.luddy.indiana.edu/hatang/).
 
-Before joining Indiana University, I completed my Ph.D. in Computer Software and Theory from Peking University in January 2023, advised by Prof. Zhonghai Wu(https://orcid.org/0000-0003-1268-836X). During my doctoral studies, I also had the enriching opportunity to serve as a visiting scholar at the CISPA Helmholtz Center for Information Security from 2019 to 2020.
+Before joining Indiana University, I completed my Ph.D. in Computer Software and Theory from Peking University in January 2023, advised by [Prof. Zhonghai Wu](https://orcid.org/0000-0003-1268-836X). During my doctoral studies, I also had the enriching opportunity to serve as a visiting scholar at the CISPA Helmholtz Center for Information Security from 2019 to 2020.
 
 Research Areas & Interests
 ======
